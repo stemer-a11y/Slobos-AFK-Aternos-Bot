@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StevieSpedy.aternos.me",
+    "ip": " StevieSpedy.aternos.me:38987",
     "port": 38987,
     "version": "1.21.11",
     "try-creative": false
